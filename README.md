@@ -4,4 +4,6 @@ This is an example of a Solidit contract. This contract take three address to sp
 
 This is a simple example fo how smart conracts can be utilized to evenly distribute something of monetary value among individuals. This contrct was first tested on a local network. Once it was successfull on the local network it was deployed to the test network(Kovan) where it was also successfully deployed and used.
 
-Below is a screenshot of the test transaction of the contract being used on the Kovan network. 
+Below is a screenshot of the test transaction of the contract being used on the Kovan network. You can also find the contract address here.
+
+![Screenshot1](https://github.com/MatrimCauthon88/Solidity_Simulation/tree/main/Screenshots)
