@@ -6,4 +6,4 @@ This is a simple example fo how smart conracts can be utilized to evenly distrib
 
 Below is a screenshot of the test transaction of the contract being used on the Kovan network. You can also find the contract address here.
 
-![Screenshot1](https://github.com/MatrimCauthon88/Solidity_Simulation/tree/main/Screenshots)
+![Screenshot1](https://github.com/MatrimCauthon88/Solidity_Simulation/blob/main/Screenshots/Screenshot1.PNG)
